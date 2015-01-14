@@ -1,5 +1,5 @@
 
-Change Management Auto-Deploy System
+Change Management Auto-Deploy System Template
 =======
 
-configuration template for <a href="git@bitbucket.org:hero78119/account-management-deploy-system.git">AMDS</a>
+configuration template example for [AMDS](git@bitbucket.org:hero78119/account-management-deploy-system.git")
